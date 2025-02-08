@@ -15,6 +15,7 @@
 		84E8A3172D579FCB00178CAC /* LottieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E8A3162D579FCB00178CAC /* LottieView.swift */; };
 		84E8A31A2D57A22100178CAC /* Animation - 1739024921438.json in Resources */ = {isa = PBXBuildFile; fileRef = 84E8A3192D57A22100178CAC /* Animation - 1739024921438.json */; };
 		84E8A31C2D57A27100178CAC /* Animation - 1739025098055.json in Resources */ = {isa = PBXBuildFile; fileRef = 84E8A31B2D57A27100178CAC /* Animation - 1739025098055.json */; };
+		84E8A31E2D57A30400178CAC /* FavouriteAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E8A31D2D57A2F900178CAC /* FavouriteAnimation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		84E8A3162D579FCB00178CAC /* LottieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottieView.swift; sourceTree = "<group>"; };
 		84E8A3192D57A22100178CAC /* Animation - 1739024921438.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "Animation - 1739024921438.json"; sourceTree = "<group>"; };
 		84E8A31B2D57A27100178CAC /* Animation - 1739025098055.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "Animation - 1739025098055.json"; sourceTree = "<group>"; };
+		84E8A31D2D57A2F900178CAC /* FavouriteAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 		84E8A3112D570BF000178CAC /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				84E8A31D2D57A2F900178CAC /* FavouriteAnimation.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84E8A31E2D57A30400178CAC /* FavouriteAnimation.swift in Sources */,
 				84E8A30E2D570BCA00178CAC /* AnimationsListView.swift in Sources */,
 				84E8A30F2D570BCA00178CAC /* LottieAnimationsListApp.swift in Sources */,
 				84E8A3172D579FCB00178CAC /* LottieView.swift in Sources */,
